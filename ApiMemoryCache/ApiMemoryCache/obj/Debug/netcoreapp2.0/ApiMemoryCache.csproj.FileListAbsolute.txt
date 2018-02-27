@@ -1,0 +1,11 @@
+C:\Users\rafae\source\repos\github-rafaelestevao\ApiMemoryCache\ApiMemoryCache\bin\Debug\netcoreapp2.0\ApiMemoryCache.deps.json
+C:\Users\rafae\source\repos\github-rafaelestevao\ApiMemoryCache\ApiMemoryCache\bin\Debug\netcoreapp2.0\ApiMemoryCache.runtimeconfig.json
+C:\Users\rafae\source\repos\github-rafaelestevao\ApiMemoryCache\ApiMemoryCache\bin\Debug\netcoreapp2.0\ApiMemoryCache.runtimeconfig.dev.json
+C:\Users\rafae\source\repos\github-rafaelestevao\ApiMemoryCache\ApiMemoryCache\bin\Debug\netcoreapp2.0\ApiMemoryCache.dll
+C:\Users\rafae\source\repos\github-rafaelestevao\ApiMemoryCache\ApiMemoryCache\obj\Debug\netcoreapp2.0\ApiMemoryCache.csprojResolveAssemblyReference.cache
+C:\Users\rafae\source\repos\github-rafaelestevao\ApiMemoryCache\ApiMemoryCache\obj\Debug\netcoreapp2.0\ApiMemoryCache.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\github-rafaelestevao\ApiMemoryCache\ApiMemoryCache\obj\Debug\netcoreapp2.0\ApiMemoryCache.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\github-rafaelestevao\ApiMemoryCache\ApiMemoryCache\obj\Debug\netcoreapp2.0\ApiMemoryCache.AssemblyInfo.cs
+C:\Users\rafae\source\repos\github-rafaelestevao\ApiMemoryCache\ApiMemoryCache\bin\Debug\netcoreapp2.0\ApiMemoryCache.pdb
+C:\Users\rafae\source\repos\github-rafaelestevao\ApiMemoryCache\ApiMemoryCache\obj\Debug\netcoreapp2.0\ApiMemoryCache.dll
+C:\Users\rafae\source\repos\github-rafaelestevao\ApiMemoryCache\ApiMemoryCache\obj\Debug\netcoreapp2.0\ApiMemoryCache.pdb
